@@ -4,7 +4,7 @@
 
 1. [Project Objective](#project-objective)
 2. [Data Sources](#data-sources)
-3. [Database and Tools](#database and tools)
+3. [Tools](#tools)
 4. [Project Learning](#project-learning)
 
 ## Project Objective
